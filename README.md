@@ -154,6 +154,10 @@ Revenue and Purchase Frequency KPIs
 
 Payment & Shipping Insights
 
+## 📊 Dashboard Preview
+
+![Customer Behavior Dashboard](Dashboard.png)
+
 6️⃣ Reporting
 
 Created presentation using Gamma.
