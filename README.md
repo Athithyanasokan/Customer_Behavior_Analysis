@@ -253,6 +253,7 @@ Recommendation system for personalized product suggestions
 ## 👤 Author
 
 Athithyan Asokan
+
 Data Analytics Enthusiast
 
 GitHub: github.com/Athithyanasokan
